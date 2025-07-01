@@ -4,7 +4,7 @@ name: Push-to-tienda-online-saas-EC2-Linux
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
