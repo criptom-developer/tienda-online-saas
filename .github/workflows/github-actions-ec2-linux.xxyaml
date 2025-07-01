@@ -1,4 +1,4 @@
-name: Push-to-tienda-online-saas-EC2
+name: Push-to-tienda-online-saas-EC2-Linux
 
 # Trigger deployment only on push to main branch
 on:
