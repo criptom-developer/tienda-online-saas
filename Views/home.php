@@ -32,7 +32,7 @@
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated3">
-                                <span><strong>Wakami</strong> Eventos corporativos</span>
+                                <span><strong>TIENDA</strong> ONLINE SAAS</span>
                             </h1>
                             <p class="animated2">Transformamos ideas en experiencias que destacan.</p>	
                            <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
