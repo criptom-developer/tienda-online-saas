@@ -25,6 +25,7 @@ date_default_timezone_set('America/Lima');
 // const DB_USER = "admin";
 // const DB_PASSWORD = "12345678";
 // const DB_CHARSET = "utf8";
+//
 
 
 //RDS privada (pruebas)
