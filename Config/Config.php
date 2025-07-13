@@ -1,7 +1,7 @@
 <?php
 // const BASE_URL = "https://wakamieventos.com";
 //const BASE_URL = 'http://localhost/tienda-online-saas/';
-const BASE_URL = 'http://3.84.33.195/tienda-online-saas';
+const BASE_URL = 'http://44.203.130.10/tienda-online-saas';
 
 //Zona horaria
 date_default_timezone_set('America/Lima');
