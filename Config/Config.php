@@ -13,6 +13,7 @@ date_default_timezone_set('America/Lima');
 // const DB_PASSWORD = "KpY17p5z3oxx";
 // const DB_CHARSET = "utf8";
 
+
 // const DB_HOST = "localhost";
 // const DB_NAME = "wakami";
 // const DB_USER = "root";
