@@ -59,7 +59,7 @@ const SECRET = "";
 //Datos envio de correo
 const NOMBRE_REMITENTE = "Tienda Virtual";
 const EMAIL_REMITENTE = "no-reply@tecomsis.com";
-const NOMBRE_EMPESA = "Tienda Virtual Wakami Eventos";
+const NOMBRE_EMPESA = "Tienda-SaaS";
 const WEB_EMPRESA = " ";
 
 const DESCRIPCION = "Wakami eventos, empresa dedicada a eventos y venta de artículos.";
