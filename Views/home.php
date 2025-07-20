@@ -43,7 +43,7 @@
                 <!--/ Carousel item end -->
                 
                 <div class="item">
-                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s22.png" alt="slider">
+                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s22.jpg" alt="slider">
                     
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
