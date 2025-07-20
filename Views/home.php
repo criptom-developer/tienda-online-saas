@@ -34,7 +34,7 @@
                             <h1 class="animated3">
                                 <span><strong>TIENDA</strong> ONLINE SAAS</span>
                             </h1>
-                            <p class="animated2">Transformamos ideas en experiencias que destacan.</p>	
+                            <!-- <p class="animated2">Transformamos ideas en experiencias que destacan.</p>	 -->
                            <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
 
                         </div>
