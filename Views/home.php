@@ -28,7 +28,7 @@
             <!-- Carousel inner -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s1.png" alt="slider">
+                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s11.jpg" alt="slider">
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated3">
