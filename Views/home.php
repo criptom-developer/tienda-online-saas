@@ -97,7 +97,7 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="section-title text-center">
                             <h3>Sobre Nosotros</h3>
-                            <p>"Transforma tus sueños en crealidades"</p>
+                            <p>"Transforma tus sueños en realidad"</p>
                         </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@
 				        <img src="<?= media() ?>/tienda/images/about-01.jpg" class="img-responsive" alt="..">
 				        <h4>FILOSOFÍA DE TRABAJO</h4>
 				        <div class="border"></div>
-				        <p style="text-align: justify;">En Wakami Eventos, creemos firmemente que la innovación constante es el motor que impulsa nuestra capacidad para ofrecer experiencias únicas y personalizadas en cada evento que organizamos. Nos comprometemos a mantenernos a la vanguardia de las tendencias y tecnologías del sector para proporcionar soluciones creativas y de alta calidad que satisfagan las expectativas de nuestros clientes. Este compromiso con la innovación nos permite diseñar y ejecutar eventos que no solo cumplen, sino que superan, las expectativas, convirtiéndose en recuerdos inolvidables.</p>
+				        <p style="text-align: justify;">Creemos en la tecnología como un motor de crecimiento accesible para todos. Nuestra filosofía se basa en ofrecer soluciones simples, escalables y enfocadas en resultados reales. Diseñamos productos intuitivos que eliminan la complejidad, permitiendo a emprendedores y empresas centrarse en lo que realmente importa: crecer. Nos comprometemos con cada cliente, acompañándolos con transparencia, soporte constante y una mentalidad orientada a la mejora continua. Tu éxito es también el nuestro.</p>
 				    </div>
 				</div>
 
@@ -118,7 +118,7 @@
                         <img src="<?= media() ?>/tienda/images/about-02.jpg" class="img-responsive" alt="..">
                         <h4>MISIÓN Y VISIÓN</h4>
                         <div class="border"></div>
-                        <p style="text-align: justify;">En Wakami Eventos, nuestra misión es transformar sueños en realidad brindando soluciones integrales para la organización de eventos, combinando creatividad, calidad, y tecnología avanzada. Aspiramos a ser la empresa líder en la organización de eventos en el ámbito nacional, reconocidos por nuestra innovación, eficiencia, y compromiso con la satisfacción del cliente. Nos proyectamos como pioneros en el uso de tecnologías avanzadas para ofrecer servicios excepcionales y personalizados, superando las expectativas y proporcionando experiencias inolvidables.</p>
+                        <p style="text-align: justify;">Nuestra misión es ofrecer soluciones SaaS simples, accesibles y eficientes que ayuden a emprendedores y empresas a digitalizar, automatizar y escalar sus operaciones, mejorando su productividad y facilitando su crecimiento. Nuestra visión es convertirnos en la plataforma SaaS de referencia en Latinoamérica, reconocida por su innovación, confiabilidad y compromiso con el éxito de cada cliente, impulsando la transformación digital de miles de negocios en todo el mundo.</p>
                     </div>
                 </div>
                 
@@ -127,9 +127,7 @@
                         <img src="<?= media() ?>/tienda/images/about-03.jpg" class="img-responsive" alt="..">
                         <h4>Valores y Reglas de Trabajo</h4>
                         <div class="border"></div>
-                        <p style="text-align: justify;">En Wakami Eventos, valoramos la excelencia, la innovación, y el compromiso, buscando siempre la perfección en cada detalle de nuestros servicios. Actuamos con integridad, fomentando un ambiente de colaboración y adaptabilidad para satisfacer las necesidades de nuestros clientes. Nuestras reglas de trabajo priorizan la orientación al cliente, manteniendo altos estándares de calidad, eficiencia operativa, y comunicación clara para ofrecer soluciones rápidas y efectivas que superen las expectativas y aseguren experiencias memorables.
-
-						</p>
+                        <p style="text-align: justify;">Nos guiamos por valores que definen cada decisión y acción: innovación constante, porque creemos en mejorar siempre; orientación al cliente, porque su éxito es nuestra prioridad; simplicidad, porque lo complejo debe volverse fácil; responsabilidad, porque cumplimos lo que prometemos; y colaboración, porque los mejores resultados nacen del trabajo en equipo. Bajo estos principios, nuestras reglas de trabajo son claras: escuchar activamente a nuestros usuarios, entregar soluciones funcionales y estables, actuar con transparencia, adaptarnos con rapidez a los cambios del entorno y trabajar siempre con ética, respeto y compromiso.</p>
                     </div>
                 </div>
                 
