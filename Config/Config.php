@@ -30,7 +30,7 @@ date_default_timezone_set('America/Lima');
 
 
 //RDS privada (pruebas)
-const DB_HOST = "mariadb-private.cklqmyee440q.us-east-1.rds.amazonaws.com";
+const DB_HOST = "database-mariadb.cklqmyee440q.us-east-1.rds.amazonaws.com";
 const DB_NAME = "bd_tienda_saas";
 const DB_USER = "admin";
 const DB_PASSWORD = "12345678";
