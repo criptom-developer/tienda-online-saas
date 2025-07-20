@@ -18,7 +18,7 @@
 	 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script> 
 
     <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="<?= media() ?>/tienda/images/logo.png"/>
+	<link rel="icon" type="image/png" href="<?= media() ?>/tienda/images/e-commerce.png"/>
 	<!--===============================================================================================-->
 
     <!-- Bootstrap Core CSS -->
