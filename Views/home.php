@@ -216,14 +216,14 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="<?= media() ?>/tienda/images/porcentaje/p1.jpeg" alt="">
+                                <img src="<?= media() ?>/tienda/images/porcentaje/p1.jpg" alt="">
+                            </div>
+                            <!-- <div class="item">
+                                <img src="<?php //echo media(); ?>/tienda/images/porcentaje/p2.jpeg" alt="">
                             </div>
                             <div class="item">
-                                <img src="<?= media() ?>/tienda/images/porcentaje/p2.jpeg" alt="">
-                            </div>
-                            <div class="item">
-                                <img src="<?= media() ?>/tienda/images/porcentaje/p3.jpeg" alt="">
-                            </div>
+                                <img src="<?php //echo media(); ?>/tienda/images/porcentaje/p3.jpeg" alt="">
+                            </div> -->
     
                         </div>
   
