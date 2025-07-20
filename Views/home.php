@@ -97,7 +97,7 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="section-title text-center">
                             <h3>Sobre Nosotros</h3>
-                            <p>"Transformamos tus sueños en celebraciones inolvidables"</p>
+                            <p>"Transforma tus sueños en crealidades"</p>
                         </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
                 
                 <div class="col-md-4">
 				    <div class="welcome-section text-center">
-				        <img src="<?= media() ?>/tienda/images/about-01.jpeg" class="img-responsive" alt="..">
+				        <img src="<?= media() ?>/tienda/images/about-01.jpg" class="img-responsive" alt="..">
 				        <h4>FILOSOFÍA DE TRABAJO</h4>
 				        <div class="border"></div>
 				        <p style="text-align: justify;">En Wakami Eventos, creemos firmemente que la innovación constante es el motor que impulsa nuestra capacidad para ofrecer experiencias únicas y personalizadas en cada evento que organizamos. Nos comprometemos a mantenernos a la vanguardia de las tendencias y tecnologías del sector para proporcionar soluciones creativas y de alta calidad que satisfagan las expectativas de nuestros clientes. Este compromiso con la innovación nos permite diseñar y ejecutar eventos que no solo cumplen, sino que superan, las expectativas, convirtiéndose en recuerdos inolvidables.</p>
@@ -115,7 +115,7 @@
                 
                 <div class="col-md-4">
                     <div class="welcome-section text-center">
-                        <img src="<?= media() ?>/tienda/images/about-02.jpeg" class="img-responsive" alt="..">
+                        <img src="<?= media() ?>/tienda/images/about-02.jpg" class="img-responsive" alt="..">
                         <h4>MISIÓN Y VISIÓN</h4>
                         <div class="border"></div>
                         <p style="text-align: justify;">En Wakami Eventos, nuestra misión es transformar sueños en realidad brindando soluciones integrales para la organización de eventos, combinando creatividad, calidad, y tecnología avanzada. Aspiramos a ser la empresa líder en la organización de eventos en el ámbito nacional, reconocidos por nuestra innovación, eficiencia, y compromiso con la satisfacción del cliente. Nos proyectamos como pioneros en el uso de tecnologías avanzadas para ofrecer servicios excepcionales y personalizados, superando las expectativas y proporcionando experiencias inolvidables.</p>
@@ -124,7 +124,7 @@
                 
                 <div class="col-md-4">
                     <div class="welcome-section text-center">
-                        <img src="<?= media() ?>/tienda/images/about-03.jpeg" class="img-responsive" alt="..">
+                        <img src="<?= media() ?>/tienda/images/about-03.jpg" class="img-responsive" alt="..">
                         <h4>Valores y Reglas de Trabajo</h4>
                         <div class="border"></div>
                         <p style="text-align: justify;">En Wakami Eventos, valoramos la excelencia, la innovación, y el compromiso, buscando siempre la perfección en cada detalle de nuestros servicios. Actuamos con integridad, fomentando un ambiente de colaboración y adaptabilidad para satisfacer las necesidades de nuestros clientes. Nuestras reglas de trabajo priorizan la orientación al cliente, manteniendo altos estándares de calidad, eficiencia operativa, y comunicación clara para ofrecer soluciones rápidas y efectivas que superen las expectativas y aseguren experiencias memorables.
