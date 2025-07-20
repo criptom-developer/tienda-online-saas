@@ -148,7 +148,7 @@
                         
                         <!-- Progress Bar -->
                         <div class="skill">
-                            <p class="coltexmiguel">Planificación y Organización de Eventos</p>          
+                            <p class="coltexmiguel">Implementación Exitosa en Clientes Internacionales</p>          
                             <div class="progress">         
                                 <div class="progress-bar" role="progressbar"  data-percentage="100">
                                     <span class="progress-bar-span" >100%</span>
@@ -159,7 +159,7 @@
                         
                         <!-- Progress Bar -->
                         <div class="skill">
-                            <p class="coltexmiguel">Servicios Creativos y de Diseño</p>          
+                            <p class="coltexmiguel">Adaptación Multilingüe y Moneda Local</p>          
                             <div class="progress">         
                                 <div class="progress-bar" role="progressbar"  data-percentage="95">
                                     <span class="progress-bar-span" >95%</span>
@@ -170,7 +170,7 @@
                         
                         <!-- Progress Bar -->
                         <div class="skill">
-                            <p class="coltexmiguel">Marketing y Promoción del Evento</p>          
+                            <p class="coltexmiguel">Estrategias de Marketing y Soporte Regional</p>          
                             <div class="progress">         
                                 <div class="progress-bar" role="progressbar"  data-percentage="80">
                                     <span class="progress-bar-span" >80%</span>
@@ -181,7 +181,7 @@
                         
                         <!-- Progress Bar -->
                         <div class="skill">
-                            <p class="coltexmiguel">Servicios de Catering y Hospitalidad</p>          
+                            <p class="coltexmiguel">Infraestructura Escalable y Global</p>          
                             <div class="progress">         
                                 <div class="progress-bar" role="progressbar"  data-percentage="100">
                                     <span class="progress-bar-span" >100%</span>
@@ -192,7 +192,7 @@
                         
                         <!-- Progress Bar -->
                         <div class="skill">
-                            <p class="coltexmiguel">Actividades y Entretenimiento</p>          
+                            <p class="coltexmiguel">Integración con Pasarelas de Pago Locales y Legislación Fiscal</p>          
                             <div class="progress">         
                                 <div class="progress-bar" role="progressbar"  data-percentage="70">
                                     <span class="progress-bar-span" >70%</span>
