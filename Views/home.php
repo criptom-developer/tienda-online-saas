@@ -34,7 +34,7 @@
                             <h1 class="animated3">
                                 <span><strong>TIENDA</strong> ONLINE SAAS</span>
                             </h1>
-                            <p class="animated2">Convierte ideas en resultados con nuestra plataforma SaaS: rápida, flexible y lista para crecer contigo.</p>	
+                            <p class="animated2">Convierte ideas en resultados con nuestra plataforma SaaS</p>	
                            <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
 
                         </div>
@@ -43,14 +43,14 @@
                 <!--/ Carousel item end -->
                 
                 <div class="item">
-                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s2.png" alt="slider">
+                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s22.png" alt="slider">
                     
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated1">
                     		  <span>TIENDA<strong>ONLINE SAAS</strong></span>
                     	    </h1>
-                            <p class="animated2">Impulsa tu negocio con tecnología simple, poderosa y al alcance de un clic.</p>
+                            <p class="animated2">Impulsa tu negocio con tecnología simple, poderosa y al alcance de un clic</p>
                             <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
 
                         </div>
@@ -65,7 +65,7 @@
                             <h1 class="animated2">
                                 <span>Crea <strong>Impacto</strong></span>
                             </h1>
-                            <p class="animated1">Tu crecimiento empieza aquí: soluciones SaaS que trabajan por ti, 24/7.</p>	
+                            <p class="animated1">Tu crecimiento empieza aquí: soluciones SaaS que trabajan por ti, 24/7</p>	
                              <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
 
                                 
