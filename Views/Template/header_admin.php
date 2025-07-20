@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Abel OSH">
     <meta name="theme-color" content="#009688">
-    <link rel="icon" type="image/png" href="<?= media() ?>/tienda/images/favicon.ico"/>
+    <link rel="icon" type="image/png" href="<?= media() ?>/tienda/images/e-commerce.png"/>
     <title><?= $data['page_tag'] ?></title>
     <!-- Main CSS-->
     <link rel="stylesheet" type="text/css" href="<?= media(); ?>/css/main.css">
