@@ -32,7 +32,8 @@
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated3">
-                                <span><strong>TIENDA</strong> ONLINE SAAS</span>
+                                <!-- <span><strong>TIENDA</strong> ONLINE SAAS</span> -->
+                                <span>TIENDA ONLINE SAAS</span>
                             </h1>
                             <p class="animated2">Convierte ideas en resultados con nuestra plataforma SaaS</p>	
                            <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
@@ -47,8 +48,8 @@
                     
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
-                            <h1 class="animated3">
-                    		  <span>TIENDA<strong> ONLINE SAAS</strong></span>
+                            <h1 class="animated2">
+                    		  <span>TIENDA ONLINE SAAS</span>
                     	    </h1>
                             <p class="animated2">Impulsa tu negocio con tecnología simple, poderosa y al alcance de un clic</p>
                             <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
@@ -63,7 +64,7 @@
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated2">
-                                <span>TIENDA<strong> ONLINE SAAS</strong></span>
+                                <span>TIENDA ONLINE SAAS</span>
                             </h1>
                             <p class="animated1">Tu crecimiento empieza aquí: soluciones SaaS que trabajan por ti, 24/7</p>	
                              <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
