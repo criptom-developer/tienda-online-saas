@@ -47,8 +47,8 @@
                     
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
-                            <h1 class="animated1">
-                    		  <span>TIENDA<strong>ONLINE SAAS</strong></span>
+                            <h1 class="animated3">
+                    		  <span>TIENDA<strong> ONLINE SAAS</strong></span>
                     	    </h1>
                             <p class="animated2">Impulsa tu negocio con tecnología simple, poderosa y al alcance de un clic</p>
                             <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
@@ -59,11 +59,11 @@
                 <!--/ Carousel item end -->
                 
                 <div class="item">
-                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s33.png" alt="slider">
+                    <img class="img-responsive" src="<?= media() ?>/tienda/images/s33.jpg" alt="slider">
                     <div class="slider-content">
                         <div class="col-md-12 text-center">
                             <h1 class="animated2">
-                                <span>Crea <strong>Impacto</strong></span>
+                                <span>TIENDA<strong> ONLINE SAAS</strong></span>
                             </h1>
                             <p class="animated1">Tu crecimiento empieza aquí: soluciones SaaS que trabajan por ti, 24/7</p>	
                              <a class="animated3 slider btn btn-primary btn-min-block" href="cotizar" target="_blank">Cotizar</a>
@@ -225,7 +225,7 @@
                                 <img src="<?php //echo media(); ?>/tienda/images/porcentaje/p3.jpeg" alt="">
                             </div> -->
     
-                            
+
                         </div>
   
                     </div>
