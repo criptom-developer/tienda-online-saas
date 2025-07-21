@@ -225,6 +225,7 @@
                                 <img src="<?php //echo media(); ?>/tienda/images/porcentaje/p3.jpeg" alt="">
                             </div> -->
     
+                            
                         </div>
   
                     </div>
