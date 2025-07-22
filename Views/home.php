@@ -649,8 +649,8 @@
                     <div class="footer-contact-info">
                         <h4>Horas Laborales</h4>
                         <ul>
-                            <li><strong>Lunes a Viernes :</strong> 9 am to 6 pm</li>
-                            <li><strong>Sábado :</strong> 9 am to 6 pm</li>
+                            <li><strong>Lunes a Viernes :</strong> 9:00 a.m. a 6:00 p.m.</li>
+                            <li><strong>Sábado :</strong> 9:00 a.m. a 1:30 p.m.</li>
                             <li><strong>Domingo  :</strong> Cerrado</li>
                         </ul>
                     </div>

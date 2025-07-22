@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-xs-12">
-                        <span class="copyright">Copyright &copy; <a href="http://wakamieventos.com">Wakami Eventos</a> 2024</span>
+                        <span class="copyright">Copyright &copy; <a href="http://www.tienda-saas.com">Tienda SaaS</a> 2025</span>
                     </div>
                     <div class="col-md-4 col-xs-12">
                         <div class="footer-social text-center">
