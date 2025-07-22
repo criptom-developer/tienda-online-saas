@@ -56,7 +56,7 @@ $urlShared = base_url()."/tienda/producto/".$arrProducto['idproducto']."/".$arrP
 				<div class="col-md-6 col-lg-7 p-b-30">
 					<div class="p-l-25 p-r-30 p-lr-0-lg">
 						<div class="wrap-slick3 flex-sb flex-w">
-							<div class="wrap-slick3-dots"></div>
+							<!-- <div class="wrap-slick3-dots"></div> -->
 							<div class="wrap-slick3-arrows flex-sb-m flex-w"></div>
 
 							<div class="slick3 gallery-lb">
@@ -65,8 +65,8 @@ $urlShared = base_url()."/tienda/producto/".$arrProducto['idproducto']."/".$arrP
 									for ($img=0; $img < count($arrImages) ; $img++) { 
 										
 							 ?>
-								<!-- <div class="item-slick3" data-thumb="<?php //echo $arrImages[$img]['url_image']; ?>"> -->
-								<div class="item-slick3">
+								<div class="item-slick3" data-thumb="<?php echo $arrImages[$img]['url_image']; ?>">
+								<!-- <div class="item-slick3"> -->
 									<div class="wrap-pic-w pos-relative">
 										<img src="<?= media()?>/tienda/images/productos/<?= $arrProducto['idproducto']?>.jpg">
 										<!-- <img src="<?php //echo $arrImages[$img]['url_image']; ?>" alt="<?php //echo $arrProducto['nombre']; ?>"> -->
