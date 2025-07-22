@@ -65,7 +65,8 @@ $urlShared = base_url()."/tienda/producto/".$arrProducto['idproducto']."/".$arrP
 									for ($img=0; $img < count($arrImages) ; $img++) { 
 										
 							 ?>
-								<div class="item-slick3" data-thumb="<?php //echo $arrImages[$img]['url_image']; ?>">
+								<!-- <div class="item-slick3" data-thumb="<?php //echo $arrImages[$img]['url_image']; ?>"> -->
+								<div class="item-slick3">
 									<div class="wrap-pic-w pos-relative">
 										<img src="<?= media()?>/tienda/images/productos/<?= $arrProducto['idproducto']?>.jpg">
 										<!-- <img src="<?php //echo $arrImages[$img]['url_image']; ?>" alt="<?php //echo $arrProducto['nombre']; ?>"> -->
