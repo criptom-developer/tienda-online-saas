@@ -44,7 +44,7 @@ const SPD = ".";
 const SPM = ",";
 
 //Simbolo de moneda
-const SMONEY = "S/";
+const SMONEY = "$";
 const CURRENCY = "PEN";
 
 //Api PayPal
