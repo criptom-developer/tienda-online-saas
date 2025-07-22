@@ -10,7 +10,7 @@ if(isset($_SESSION['arrCarrito']) and count($_SESSION['arrCarrito']) > 0){
  ?>	
 	<li class="header-cart-item flex-w flex-t m-b-12">
 		<div class="header-cart-item-img" idpr="<?= $idProducto ?>" op="1" onclick="fntdelItem(this)">
-			<!-- <img src="<?= $producto['imagen'] ?>" alt="<?= $producto['producto'] ?>"> -->
+			<img src="<?= $producto['imagen'] ?>" alt="<?= $producto['producto'] ?>">
 		</div>
 		<div class="header-cart-item-txt p-t-8">
 			<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
