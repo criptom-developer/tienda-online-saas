@@ -27,7 +27,8 @@
 							c.nombre as categoria,
 							p.precio,
 							p.stock,
-							p.status 
+							p.status,
+							p.imagen
 					FROM producto p 
 					INNER JOIN categoria c
 					ON p.categoriaid = c.idcategoria
