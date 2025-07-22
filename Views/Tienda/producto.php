@@ -68,7 +68,7 @@ $urlShared = base_url()."/tienda/producto/".$arrProducto['idproducto']."/".$arrP
 								<div class="item-slick3" data-thumb="<?= $arrImages[$img]['url_image']; ?>">
 									<div class="wrap-pic-w pos-relative">
 										<img src="<?= media()?>/tienda/images/productos/<?= $arrProducto['idproducto']?>.jpg">
-										<img src="<?php //echo $arrImages[$img]['url_image']; ?>" alt="<?php //echo $arrProducto['nombre']; ?>">
+										<!-- <img src="<?php //echo $arrImages[$img]['url_image']; ?>" alt="<?php //echo $arrProducto['nombre']; ?>"> -->
 										<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="<?= $arrImages[$img]['url_image']; ?>">
 											<i class="fa fa-expand"></i>
 										</a>
