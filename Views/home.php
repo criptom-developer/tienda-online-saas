@@ -496,14 +496,14 @@
                             <?php 
                                 for ($p = 0; $p < count($arrProductos); $p++) {
                                     $rutaProducto = $arrProductos[$p]['ruta']; 
-                                    $portada = count($arrProductos[$p]['images']) > 0 
-                                        ? $arrProductos[$p]['images'][0]['url_image'] 
-                                        : media() . '/images/uploads/product.png';
+                                    // $portada = count($arrProductos[$p]['images']) > 0 
+                                    //     ? $arrProductos[$p]['images'][0]['url_image'] 
+                                    //     : media() . '/images/uploads/product.png';
                             ?>
                                 <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
                                     <div class="block2">
                                         <div class="block2-pic hov-img0">
-                                            <img src="<?= media() . $arrProductos[$p]['imagen'] ?> alt="<?= $arrProductos[$p]['nombre'] ?>">
+                                            <img src="<?= media() . $arrProductos[$p]['images'] ?>" alt="<?= $arrProductos[$p]['nombre'] ?>">
                                             <!-- <img src="<?php //echo $portada; ?>" alt="<?php //echo $arrProductos[$p]['nombre']; ?>"> -->
                                             <a href="<?= base_url() . '/tienda/producto/' . $arrProductos[$p]['idproducto'] . '/' . $rutaProducto; ?>" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04">
                                                 Ver producto
