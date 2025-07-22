@@ -90,7 +90,7 @@ $urlShared = base_url()."/tienda/producto/".$arrProducto['idproducto']."/".$arrP
 							<?= $arrProducto['nombre']; ?>
 						</h4>
 						<span class="mtext-106 cl2">
-							<?= SMONEY.formatMoney($arrProducto['precio']) . ' (precio por un año)'?>
+							<?= SMONEY.formatMoney($arrProducto['precio']) ?>
 						</span>
 						<!-- <p class="stext-102 cl3 p-t-23"></p> -->
 						<?= $arrProducto['descripcion']; ?>
