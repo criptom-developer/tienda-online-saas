@@ -638,10 +638,10 @@
                     <div class="footer-contact-info">
                         <h4>Datos de Contacto</h4>
                         <ul>
-                            <li><strong>Email:</strong> wakamiev@wakamieventos.com</li>
-                            <li><strong>Telefono :</strong> +51 993403860</li>
-                            <li><strong>Celular :</strong> 993403860</li>
-                            <li><strong>Web :</strong> wakamieventos.com</li>
+                            <li><strong>Email:</strong> customer_service@tiendasaas.com</li>
+                            <li><strong>Telefono :</strong> +51 056344554</li>
+                            <li><strong>Celular :</strong> 987654321</li>
+                            <li><strong>Web :</strong> www.tiendasaas.com</li>
                         </ul>
                     </div>
                 </div>
@@ -649,8 +649,7 @@
                     <div class="footer-contact-info">
                         <h4>Horas Laborales</h4>
                         <ul>
-                            <li><strong>Lun-Miércoles :</strong> 9 am to 8 pm</li>
-                            <li><strong>Jueves a viernes :</strong> 9 pm to 10 pm</li>
+                            <li><strong>Lunes a Viernes :</strong> 9 am to 6 pm</li>
                             <li><strong>Sábado :</strong> 9 am to 6 pm</li>
                             <li><strong>Domingo  :</strong> Cerrado</li>
                         </ul>
