@@ -262,7 +262,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IMPLEMENTACIÓN EXITOSA EN CLIENTES INTERNACIONALES</h4>
-                                    <p class="coltejustificado">Nuestro sistema SaaS ha sido implementado con éxito en diversos países, adaptándose a distintos mercados, idiomas y normativas locales. Esta experiencia internacional respalda la solidez, escalabilidad y versatilidad de nuestra plataforma, garantizando resultados óptimos sin importar la ubicación del cliente.</p>
+                                    <p class="coltejustificado">Nuestro sistema SaaS ha sido implementado con éxito en diversos países, adaptándose a distintos mercados, idiomas y normativas locales.</p>
                                 </div>
                             </div>
                         </div>
@@ -276,7 +276,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">ADAPTACIÓN MULTILINGÜE Y MONEDA LOCAL</h4>
-                                    <p class="coltejustificado">Nuestra plataforma está diseñada para operar en múltiples idiomas y manejar diferentes monedas locales, permitiendo a tus clientes comprar con comodidad y confianza desde cualquier parte del mundo. Esta flexibilidad mejora la experiencia del usuario y potencia tus oportunidades de venta internacional.</p>
+                                    <p class="coltejustificado">Nuestra plataforma está diseñada para operar en múltiples idiomas y manejar diferentes monedas locales, permitiendo a tus clientes comprar con comodidad y confianza desde cualquier parte del mundo.</p>
                                 </div>
                             </div>
                         </div>
@@ -290,7 +290,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">ESTRATEGIAS DE MARKETING Y SOPORTE REGIONAL</h4>
-                                    <p class="coltejustificado">Ofrecemos herramientas y asesoría en estrategias de marketing adaptadas a cada región, junto con un soporte técnico localizado que entiende las necesidades específicas de tu mercado. Esto asegura una conexión más efectiva con tus clientes y un crecimiento sostenido en cada territorio donde operes.</p>
+                                    <p class="coltejustificado">Ofrecemos herramientas y asesoría en estrategias de marketing adaptadas a cada región, junto con un soporte técnico localizado que entiende las necesidades específicas de tu mercado.</p>
                                 </div>
                             </div>
                         </div>
@@ -304,7 +304,7 @@
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">INFRAESTRUCTURA ESCALABLE Y GLOBAL</h4>
-                                    <p class="coltejustificado">Nuestra solución SaaS se apoya en una infraestructura en la nube robusta y distribuida globalmente, lo que permite un rendimiento óptimo, alta disponibilidad y escalabilidad según el crecimiento de tu negocio. Estés donde estés, tu tienda online operará con velocidad, seguridad y eficiencia.</p>
+                                    <p class="coltejustificado">Nuestra solución SaaS se apoya en una infraestructura en la nube robusta y distribuida globalmente, lo que permite un rendimiento óptimo, alta disponibilidad y escalabilidad según el crecimiento de tu negocio.</p>
                                 </div>
                             </div>
                         </div>
