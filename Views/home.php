@@ -449,7 +449,7 @@
 							</div>
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/member4.png" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member4.jpg" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>Pablo Rodríguez</h4>
 							        <p>Especialista en Marketing</p>
