@@ -248,7 +248,7 @@
                     <div class="col-md-12">
                         <div class="section-title text-center">
                             <h3>Nuestro Servicios</h3>
-                            <p>De la planificación a la celebración: éxito garantizado</p>
+                            <p>De la planificación a la implementación: éxito garantizado</p>
                         </div>
                     </div>
                 </div>
@@ -404,7 +404,7 @@
                                 <div class="our-team">
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/T1.jpeg" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member1.jpg" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>Wilfredo Vasquez</h4>
 							        <p>Director y Fundador</p>
@@ -419,7 +419,7 @@
 							</div>
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/T2.jpeg" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member2.png" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>Ana Villalobos</h4>
 							        <p>Gerente General</p>
@@ -434,7 +434,7 @@
 							</div>
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/T3.png" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member3.png" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>María García</h4>
 							        <p>Coordinadora de Eventos</p>
@@ -449,7 +449,7 @@
 							</div>
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/manage-1.jpg" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member4.png" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>Pablo Rodríguez</h4>
 							        <p>Especialista en Marketing</p>
