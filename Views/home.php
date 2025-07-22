@@ -404,7 +404,7 @@
                                 <div class="our-team">
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/member1.jpg" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member_1.jpg" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>Wilfredo Vasquez</h4>
 							        <p>Director y Fundador</p>
@@ -419,7 +419,7 @@
 							</div>
 
 							<div class="team-member">
-							    <img src="<?= media() ?>/tienda/images/team/member2.png" class="img-responsive" alt="">
+							    <img src="<?= media() ?>/tienda/images/team/member_2.jpg" class="img-responsive" alt="">
 							    <div class="team-details">
 							        <h4>Ana Villalobos</h4>
 							        <p>Gerente General</p>
